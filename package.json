@@ -13,7 +13,7 @@
   "author": "Noah MacDonald <noahmac@google.com>",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "7.29.6",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/preset-env": "^7.9.5",
     "@babel/preset-react": "^7.9.4",
@@ -32,7 +32,7 @@
     "js-yaml": "~3.13.1",
     "jsdom": "^11.11.0",
     "lodash": "^4.17.19",
-    "moment": "^2.29.4",
+    "moment": "2.31.0",
     "rainbowvis.js": "^1.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.7.0",
@@ -41,9 +41,9 @@
     "to-string-loader": "^1.1.5",
     "url-loader": "^4.1.0",
     "terser-webpack-plugin": "^5.3.10",
-    "webpack": "^5.94.0",
+    "webpack": "5.104.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "5.0.4"
+    "webpack-dev-server": "5.2.6"
   },
   "resolutions": {
     "js-yaml": "3.13.1",
